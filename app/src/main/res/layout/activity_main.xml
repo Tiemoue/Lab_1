@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/flashcard_question_textview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="Who's the best football player in the world?"
+        android:textSize="40sp"
+        android:gravity="center" />
+
+
+    <TextView
+        android:id="@+id/flashcard_answer_textview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="Lionel Messi"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:visibility="invisible" />
+
+</RelativeLayout>
