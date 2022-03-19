@@ -5,7 +5,7 @@
 `TODO://` A simple flashcard app that lets users add a new question and answers
 
 ### App Walk-though
-<img src="walk.gif" width=200><br>
+<img src="walk(1).gif" width=200><br>
 
 
 ## Required
