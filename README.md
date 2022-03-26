@@ -7,7 +7,7 @@ A simple flashcard App that lets user add questions and answers
 
 ### App Walk-though
 
-<img src="demo.gif" width=200><br>
+<img src="demo2.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
