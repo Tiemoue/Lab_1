@@ -1,4 +1,4 @@
-## Collins Flsahcard App
+## Collins Flashcard App
 
 ## Lab 3
 
